@@ -27,6 +27,10 @@ namespace MvcStorage
             services.AddTransient(x => new ServiceStorageBlobs(storagekeys));
             services.AddTransient(x => new ServiceStorageTables(storagekeys));
             services.AddTransient<ServiceTableAlumnos>();
+
+            string servicebuskeys = this.Configuration["ServiceBusKey"];
+            services.AddTransient(x => new ServiceQueueBus(servicebuskeys));
+
             services.AddControllersWithViews();
         }
 

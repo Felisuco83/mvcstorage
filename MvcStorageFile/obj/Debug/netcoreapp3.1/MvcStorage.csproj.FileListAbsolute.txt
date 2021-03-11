@@ -250,3 +250,16 @@ C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\obj\Debug\netcoreapp3.1\
 C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\obj\Debug\netcoreapp3.1\MvcStorage.pdb
 C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\obj\Debug\netcoreapp3.1\MvcStorage.genruntimeconfig.cache
 C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\obj\Debug\netcoreapp3.1\Razor\Views\Alumnos\Index.cshtml.g.cs
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Teteman\Source\Repos\mvcstorage\MvcStorageFile\obj\Debug\netcoreapp3.1\Razor\Views\Queue\Index.cshtml.g.cs

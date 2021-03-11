@@ -1,0 +1,27 @@
+﻿<h1>Service Bus Queue</h1>
+
+<form method="post">
+    <label>Mensaje: </label>
+    <input type="text" name="mensaje" class="form-control" />
+    <button type="submit" name="accion" value="mensaje" class="btn btn-success">
+        Enviar un Mensaje
+    </button>
+    <button type="submit" name="accion" value="batch" class="btn btn-danger">
+        Enviar Batch
+    </button>
+    <button type="submit" name="accion" value="recibir" class="btn btn-info">
+        Recibir Mensajes
+    </button>
+</form>
+
+@if(Model != null)
+{
+    <ul class="list-group">
+        @foreach (string msj in Model)
+        {
+            <li class="list-group-item">
+                @msj
+            </li>
+        }
+    </ul>
+}
